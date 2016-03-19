@@ -12,6 +12,7 @@ public class DrawingApp {
 	 Shape shape = (Shape)context.getBean("circle");
 	 System.out.println("changes in new bracnh2 for checking rebase");
 	 System.out.println("This time check rebase");
+	 System.out.println("rEBASE2");
 	 shape.draw();
 	//Properties of Application Context
 	 context.getMessage("greeting", null, "Default Greeting", null);
