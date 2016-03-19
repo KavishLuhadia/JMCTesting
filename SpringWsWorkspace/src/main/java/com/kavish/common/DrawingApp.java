@@ -19,11 +19,8 @@ public class DrawingApp {
 	 System.out.println("Again making changes");
 
 
-
-System.out.println("FETCH 123456 FOR BR1 --SRY LATE");
-
-
-System.out.println("PUSHED TO MASTER 1");
+System.out.println("FETCH 123456");
+System.out.println("PUSHED TO MASTER 1 SUCCESS");
 
 	 System.out.println("Making changes in branch2");
 
