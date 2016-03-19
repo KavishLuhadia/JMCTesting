@@ -9,7 +9,7 @@ public class DrawingApp {
 				"Spring-Module.xml"); 
 	 System.out.println("Implementing spring core");
 	 System.out.println("In new branch lets c");
-	 System.out.println("Again making changes");
+	 System.out.println("Again making changes to see chnges nb1");
 	 Shape shape = (Shape)context.getBean("circle");
 	 shape.draw();
 	//Properties of Application Context
