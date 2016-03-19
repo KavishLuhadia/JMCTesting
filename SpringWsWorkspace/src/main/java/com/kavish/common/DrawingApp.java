@@ -18,7 +18,7 @@ public class DrawingApp {
 	 System.out.println("In new branch lets c");
 	 System.out.println("Again making changes");
 
-System.out.println("FETCH 1");
+System.out.println("FETCH 12");
 	 System.out.println("Making changes in branch2");
 
 
