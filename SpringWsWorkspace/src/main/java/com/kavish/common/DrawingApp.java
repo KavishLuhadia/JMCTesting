@@ -10,14 +10,16 @@ public class DrawingApp {
 	 System.out.println("Implementing spring core");
 
 
+
 	 System.out.println("In new branch lets c");
 
-
-
-	
+	 System.out.println("Making changes in branch2");
 
 	 System.out.println("In new branch lets c");
 	 System.out.println("Again making changes");
+
+
+	 System.out.println("Making changes in branch2");
 
 
 	 Shape shape = (Shape)context.getBean("circle");
