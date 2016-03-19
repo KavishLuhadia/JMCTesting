@@ -10,6 +10,7 @@ public class DrawingApp {
 	 System.out.println("Implementing spring core");
 	 System.out.println("Making changes in branch2");
 	 Shape shape = (Shape)context.getBean("circle");
+	 System.out.println("changes in new bracnh2 for checking rebase");
 	 shape.draw();
 	//Properties of Application Context
 	 context.getMessage("greeting", null, "Default Greeting", null);
