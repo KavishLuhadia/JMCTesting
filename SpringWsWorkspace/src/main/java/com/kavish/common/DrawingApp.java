@@ -29,4 +29,5 @@ public class DrawingApp {
 	//Properties of Application Context
 	 context.getMessage("greeting", null, "Default Greeting", null);
  }
+}
 
