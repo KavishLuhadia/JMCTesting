@@ -6,7 +6,8 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class DrawingApp {
  public static void main(String args[]){
 	 ApplicationContext context = new ClassPathXmlApplicationContext(
-				"Spring-Module.xml");
+				"Spring-Module.xml"); 
+	 System.out.println("Implementing spring core");
 	 Shape shape = (Shape)context.getBean("circle");
 	 shape.draw();
 	//Properties of Application Context
